@@ -3,7 +3,7 @@
 This repository contains the UI/UX design for the TechBridge app, developed for the NASSCOM NextGen Nexus hackathon project. The app is aimed at providing solutions to bridge the gap between technology and underserved communities.
 
 ## Figma Prototype
-https://jency1702.github.io/TechBridge-App-Design/
+https://www.figma.com/proto/M8oBgNB9oV61mQg3wAUNUj/Nasscom?node-id=12-14&p=f&t=MB29pXUMFFmX9p9M-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=12%3A14
 
 ## Project Overview
 The TechBridge app aims to:
